@@ -1,4 +1,4 @@
-# Fall21_project_2
+# Fall21_Project2
 
 In this project you will scrape Goodreads.com and extract various information
 
