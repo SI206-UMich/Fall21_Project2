@@ -1,3 +1,8 @@
+# FALL 2021
+# SI 206
+# Name:
+# Who did you work with:
+
 from bs4 import BeautifulSoup
 import requests
 import re
