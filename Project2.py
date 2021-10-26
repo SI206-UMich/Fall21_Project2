@@ -63,7 +63,7 @@ def get_book_summary(book_html):
 def summarize_best_books(filepath):
     """
     Write a function to get a list of categories, book title and URLs from the "BEST 
-    BOOKS OF 2021" page in "best_books_2021.html". This function should create a 
+    BOOKS OF 2020" page in "best_books_2020.html". This function should create a 
     BeautifulSoup object from a filepath and return a list of (category, book title, 
     URL) tuples.
     
